@@ -18,9 +18,6 @@ policy (name, definition, ...)
 * one policy can be assigned to multiply users
 * policy defines what kind of operations given user can perform on 'items':
 
+As DB used PostgreSQL;
 
-** can user list only items from given sector?
-
-** can user list the items from selected sectors?
-
-** the same with delete, update, and create operations
+The application (including DB) start and stopped using docker compose;
