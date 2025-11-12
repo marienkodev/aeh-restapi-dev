@@ -1,4 +1,19 @@
-# Application the REST API in GoLang
+# REST API in GoLang
+
+A simple REST API built with Go (Golang) and PostgreSQL for managing users, keys, items, and access policies.
+The project focuses on backend architecture, authentication, and policy-based access control (RBAC).
+
+# Tech Stack 
+
+*Language:* Go 1.20+
+
+*Database:* PostgreSQL
+
+*Containerization:* Docker & Docker Compose
+
+*Tools:* Makefile, Postman for API testing
+
+# Main Entities
 
 That has at least the following entities (be able create, delete, update, list):
 
