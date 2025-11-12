@@ -5,13 +5,13 @@ The project focuses on backend architecture, authentication, and policy-based ac
 
 # Tech Stack 
 
-*Language:* Go 1.20+
+**Language:** Go 1.20+
 
-*Database:* PostgreSQL
+**Database:** PostgreSQL
 
-*Containerization:* Docker & Docker Compose
+**Containerization:** Docker & Docker Compose
 
-*Tools:* Makefile, Postman for API testing
+**Tools:** Makefile, Postman for API testing
 
 # Main Entities
 
